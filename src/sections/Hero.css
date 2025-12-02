@@ -1,0 +1,14 @@
+/* src/sections/Hero.css */
+
+.hero-nubes-bg {
+  /* Carga tu imagen de nubes */
+  background-image: url('/assets/clouds.png');
+  
+  /* Asegura que cubra todo el fondo */
+  background-size: cover;
+  background-position: center;
+  
+  /* Mantiene la escena ordenada */
+  position: relative;
+  overflow: hidden; 
+}
